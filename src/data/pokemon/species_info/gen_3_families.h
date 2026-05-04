@@ -10477,10 +10477,10 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
     [SPECIES_ABSOL_MEGA] =
     {
         .baseHP        = 65,
-        .baseAttack    = 150,
+        .baseAttack    = 130,
         .baseDefense   = 60,
         .baseSpeed     = 115,
-        .baseSpAttack  = 115,
+        .baseSpAttack  = 135,
         .baseSpDefense = 60,
         .types = MON_TYPES(TYPE_DARK),
         .catchRate = 30,
