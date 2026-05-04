@@ -9843,7 +9843,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .baseSpDefense = 80,
         .types = MON_TYPES(TYPE_GHOST),
         .catchRate = 190,
-        .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 59 : 97,
+        .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 65 : 97,
         .evYield_Defense = (P_UPDATED_EVS >= GEN_4) ? 0 : 1,
         .evYield_SpDefense = 1,
         .itemRare = ITEM_SPELL_TAG,
