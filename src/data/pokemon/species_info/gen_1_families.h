@@ -12364,8 +12364,8 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_FAMILY_ONIX
     [SPECIES_ONIX] =
     {
-        .baseHP        = 35,
-        .baseAttack    = 45,
+        .baseHP        = 85,
+        .baseAttack    = 115,
         .baseDefense   = 160,
         .baseSpeed     = 70,
         .baseSpAttack  = 30,
