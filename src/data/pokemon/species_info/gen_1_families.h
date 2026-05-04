@@ -5180,7 +5180,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .friendship = 140,
         .growthRate = GROWTH_FAST,
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FAIRY),
-        .abilities = { ABILITY_CUTE_CHARM, ABILITY_MAGIC_GUARD, ABILITY_UNAWARE },
+        .abilities = { ABILITY_MAGIC_BOUNCE, ABILITY_MAGIC_BOUNCE, ABILITY_MAGIC_BOUNCE },
         .bodyColor = BODY_COLOR_PINK,
         .speciesName = _("Clefable"),
     #if P_MODIFIED_MEGA_CRIES
