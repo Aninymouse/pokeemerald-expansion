@@ -8094,7 +8094,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
     [SPECIES_LUNATONE] =
     {
         .baseHP        = P_UPDATED_STATS >= GEN_7 ? 90 : 70,
-        .baseAttack    = 55,
+        .baseAttack    = 95,
         .baseDefense   = 65,
         .baseSpeed     = 70,
         .baseSpAttack  = 95,
