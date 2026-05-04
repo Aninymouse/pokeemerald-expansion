@@ -16267,7 +16267,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_GEN_2_CROSS_EVOS
     [SPECIES_SCIZOR] =
     {
-        .baseHP        = 70,
+        .baseHP        = 80,
         .baseAttack    = 130,
         .baseDefense   = 100,
         .baseSpeed     = 65,
@@ -16352,7 +16352,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_MEGA_EVOLUTIONS
     [SPECIES_SCIZOR_MEGA] =
     {
-        .baseHP        = 70,
+        .baseHP        = 80,
         .baseAttack    = 150,
         .baseDefense   = 140,
         .baseSpeed     = 75,
