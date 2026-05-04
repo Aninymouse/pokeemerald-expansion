@@ -3323,7 +3323,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 
     [SPECIES_SCOVILLAIN] =
     {
-        .baseHP        = 85,
+        .baseHP        = 105,
         .baseAttack    = 108,
         .baseDefense   = 65,
         .baseSpeed     = 75,
@@ -3389,7 +3389,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 #if P_GEN_9_MEGA_EVOLUTIONS
     [SPECIES_SCOVILLAIN_MEGA] =
     {
-        .baseHP        = 85,
+        .baseHP        = 105,
         .baseAttack    = 138,
         .baseDefense   = 85,
         .baseSpeed     = 75,
