@@ -16427,7 +16427,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_GEN_8_CROSS_EVOS
     [SPECIES_KLEAVOR] =
     {
-        .baseHP        = 70,
+        .baseHP        = 80,
         .baseAttack    = 135,
         .baseDefense   = 95,
         .baseSpeed     = 85,
