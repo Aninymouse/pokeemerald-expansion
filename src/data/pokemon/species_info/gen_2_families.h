@@ -1621,7 +1621,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .baseSpDefense = 65,
         .types = MON_TYPES(TOGEPI_FAMILY_TYPE1),
         .catchRate = 190,
-        .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 49 : 74,
+        .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 65 : 74,
         .evYield_SpDefense = 1,
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 10,
