@@ -12436,15 +12436,15 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_GEN_2_CROSS_EVOS
     [SPECIES_STEELIX] =
     {
-        .baseHP        = 75,
-        .baseAttack    = 85,
+        .baseHP        = 95,
+        .baseAttack    = 135,
         .baseDefense   = 200,
         .baseSpeed     = 30,
         .baseSpAttack  = 55,
         .baseSpDefense = 65,
         .types = MON_TYPES(TYPE_STEEL, TYPE_GROUND),
         .catchRate = 25,
-        .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 179 : 196,
+        .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 630 : 196,
         .evYield_Defense = 2,
         .itemRare = ITEM_METAL_COAT,
         .genderRatio = PERCENT_FEMALE(50),
