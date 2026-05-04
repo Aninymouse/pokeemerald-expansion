@@ -11459,9 +11459,8 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .weight = 234,
         .description = COMPOUND_STRING(
             "A Pokémon that was once believed to have\n"
-            "been extinct. The species has not changed\n"
-            "its form for 100 million years. It walks on\n"
-            "the seafloor using its pectoral fins."),
+            "been extinct. It walks on the seafloor\n"
+            "using its pectoral fins."),
         .pokemonScale = 316,
         .pokemonOffset = 7,
         .trainerScale = 256,
@@ -11530,6 +11529,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 116 : 110,
         .evYield_Speed = 1,
         .itemCommon = ITEM_HEART_SCALE,
+        .itemRare = ITEM_HEART_SCALE,
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = STANDARD_FRIENDSHIP,
