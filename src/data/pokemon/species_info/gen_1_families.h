@@ -12523,15 +12523,15 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_MEGA_EVOLUTIONS
     [SPECIES_STEELIX_MEGA] =
     {
-        .baseHP        = 75,
-        .baseAttack    = 125,
+        .baseHP        = 95,
+        .baseAttack    = 165,
         .baseDefense   = 230,
         .baseSpeed     = 30,
         .baseSpAttack  = 55,
-        .baseSpDefense = 95,
+        .baseSpDefense = 105,
         .types = MON_TYPES(TYPE_STEEL, TYPE_GROUND),
         .catchRate = 25,
-        .expYield = 214,
+        .expYield = 320,
         .evYield_Defense = 2,
         .itemRare = ITEM_METAL_COAT,
         .genderRatio = PERCENT_FEMALE(50),
@@ -12539,7 +12539,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .friendship = STANDARD_FRIENDSHIP,
         .growthRate = GROWTH_MEDIUM_FAST,
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MINERAL),
-        .abilities = { ABILITY_SAND_FORCE, ABILITY_SAND_FORCE, ABILITY_SAND_FORCE },
+        .abilities = { ABILITY_PRISM_ARMOR, ABILITY_PRISM_ARMOR, ABILITY_PRISM_ARMOR },
         .bodyColor = BODY_COLOR_GRAY,
         .speciesName = _("Steelix"),
     #if P_MODIFIED_MEGA_CRIES
