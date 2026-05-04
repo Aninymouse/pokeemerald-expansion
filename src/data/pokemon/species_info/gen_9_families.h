@@ -3323,7 +3323,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 
     [SPECIES_SCOVILLAIN] =
     {
-        .baseHP        = 65,
+        .baseHP        = 85,
         .baseAttack    = 108,
         .baseDefense   = 65,
         .baseSpeed     = 75,
@@ -3389,7 +3389,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 #if P_GEN_9_MEGA_EVOLUTIONS
     [SPECIES_SCOVILLAIN_MEGA] =
     {
-        .baseHP        = 65,
+        .baseHP        = 85,
         .baseAttack    = 138,
         .baseDefense   = 85,
         .baseSpeed     = 75,
@@ -3404,7 +3404,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .friendship = STANDARD_FRIENDSHIP,
         .growthRate = GROWTH_MEDIUM_FAST,
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_GRASS),
-        .abilities = { ABILITY_CHLOROPHYLL, ABILITY_INSOMNIA, ABILITY_MOODY },
+        .abilities = { ABILITY_FLAME_BODY, ABILITY_FLAME_BODY, ABILITY_FLAME_BODY },
         .bodyColor = BODY_COLOR_GREEN,
         .speciesName = _("Scovillain"),
     #if P_MODIFIED_MEGA_CRIES
