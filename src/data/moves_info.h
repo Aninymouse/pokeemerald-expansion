@@ -17344,7 +17344,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Mind Blown"),
         .description = COMPOUND_STRING(
-            "It explodes the user's head\n"
+            "It explodes the user's bomb\n"
             "to damage everything around."),
         .effect = EFFECT_MAX_HP_50_RECOIL,
         .power = 130,
