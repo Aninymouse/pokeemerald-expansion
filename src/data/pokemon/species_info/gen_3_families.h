@@ -3747,10 +3747,10 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
     [SPECIES_NINJASK] =
     {
         .baseHP        = 61,
-        .baseAttack    = 90,
+        .baseAttack    = 70,
         .baseDefense   = 45,
         .baseSpeed     = 160,
-        .baseSpAttack  = 50,
+        .baseSpAttack  = 114,
         .baseSpDefense = 50,
         .types = MON_TYPES(TYPE_BUG, TYPE_FLYING),
         .catchRate = 120,
