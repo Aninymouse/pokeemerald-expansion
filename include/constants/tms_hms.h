@@ -26,6 +26,7 @@
     F(FIRE_BLAST) \
     F(FLARE_BLITZ) \
     F(SUNNY_DAY) \
+    F(WILL_O_WISP) \
     F(WATER_PULSE) \
     F(FLIP_TURN) \
     F(SCALD) \
@@ -39,9 +40,10 @@
     F(THUNDERBOLT) \
     F(WILD_CHARGE) \
     F(THUNDER) \
+    F(THUNDER_WAVE) \
+    F(TRIPLE_AXEL) \
     F(ICY_WIND) \
     F(ICE_FANG) \
-    F(FREEZE_DRY) \
     F(ICE_PUNCH) \
     F(ICE_BEAM) \
     F(ICICLE_CRASH) \
@@ -67,6 +69,8 @@
     F(DARK_PULSE) \
     F(FOUL_PLAY) \
     F(TAUNT) \
+    F(HONE_CLAWS) \
+    F(NASTY_PLOT) \
     F(DAZZLING_GLEAM) \
     F(PLAY_ROUGH) \
     F(MOONBLAST) \
@@ -114,6 +118,8 @@
     F(OMINOUS_WIND) \
     F(SHADOW_CLAW) \
     F(SHADOW_BALL) \
+    F(CURSE) \
+    F(PAY_DAY) \
     F(STEEL_WING) \
     F(IRON_HEAD) \
     F(FLASH_CANNON) \

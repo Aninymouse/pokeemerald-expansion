@@ -399,7 +399,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "Grips the foe with large and\n"
             "powerful pincers."),
         .effect = EFFECT_HIT,
-        .power = 55,
+        .power = 65,
         .type = TYPE_NORMAL,
         .accuracy = 100,
         .pp = 30,
