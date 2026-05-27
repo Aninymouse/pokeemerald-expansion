@@ -13882,7 +13882,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Sacrifices its own\n"
             "HP to fire a beam\n"
-            "of metal powder."),
+            "of metal."),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,

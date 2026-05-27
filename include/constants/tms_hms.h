@@ -33,7 +33,7 @@
     F(LIQUIDATION) \
     F(HYDRO_PUMP) \
     F(RAIN_DANCE) \
-    F(SHOCKWAVE) \
+    F(SHOCK_WAVE) \
     F(THUNDER_FANG) \
     F(VOLT_SWITCH) \
     F(THUNDER_PUNCH) \
